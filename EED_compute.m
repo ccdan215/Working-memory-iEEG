@@ -1,5 +1,4 @@
 %% Compute encoding-encoding dissimilarity (EED) matrix based on the power.
-
 % Key:
 % subid = 's1' (required)
 
